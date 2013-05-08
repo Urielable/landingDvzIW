@@ -658,6 +658,7 @@ p {
   font-size: 21px;
   font-weight: 200;
   line-height: 30px;
+  width: 650px;
 }
 
 small {
@@ -6159,9 +6160,9 @@ a.badge:focus {
 }
 
 .video{
-  margin-left: 138px;
-  margin-top: -114px;
-  width: 600px;
+  margin-left: 665px;
+  margin-top: -150px;
+  width: 500px;
 }
 
 .logodiw{
