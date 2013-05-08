@@ -101,7 +101,7 @@ sub {
 img {
   width: auto\9;
   height: auto;
-  max-width: 100%;
+  max-width: 30%;
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
@@ -168,6 +168,7 @@ textarea {
   overflow: auto;
   vertical-align: top;
 }
+
 
 @media print {
   * {
@@ -6155,4 +6156,14 @@ a.badge:focus {
 
 .affix {
   position: fixed;
+}
+
+.video{
+  margin-left: 138px;
+  margin-top: -114px;
+  width: 600px;
+}
+
+.logodiw{
+  margin-right: 100px;
 }
