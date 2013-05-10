@@ -1,0 +1,15 @@
+.heading-img {
+  width: 40px;
+  height: 40px;
+  -o-transition: all 550ms;
+  -ms-transition: all 550ms;
+  -webkit-transition: all 550ms;
+  transition: all 550ms;
+}
+
+.heading-img:hover {
+  -webkit-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
