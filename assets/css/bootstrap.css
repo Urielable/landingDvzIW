@@ -101,7 +101,7 @@ sub {
 img {
   width: auto\9;
   height: auto;
-  max-width: 30%;
+  max-width: 100%;
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
@@ -168,7 +168,6 @@ textarea {
   overflow: auto;
   vertical-align: top;
 }
-
 
 @media print {
   * {
@@ -658,7 +657,6 @@ p {
   font-size: 21px;
   font-weight: 200;
   line-height: 30px;
-  width: 650px;
 }
 
 small {
@@ -6159,12 +6157,19 @@ a.badge:focus {
   position: fixed;
 }
 
-.video{
-  margin-left: 665px;
-  margin-top: -150px;
-  width: 500px;
+.idea {
+  background-image: url("../img/icons/foco.png");
+  background-repeat: no-repeat;
+  background-size: 40px auto;
+}
+.personilla {
+  background-image: url("../img/icons/personilla.png");
+  background-repeat: no-repeat;
+  background-size: 40px auto;
+}
+.engrane {
+  background-image: url("../img/icons/engranes.png");
+  background-repeat: no-repeat;
+  background-size: 40px auto;
 }
 
-.logodiw{
-  margin-right: 100px;
-}
