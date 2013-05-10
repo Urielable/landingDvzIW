@@ -6156,3 +6156,20 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+
+.idea {
+  background-image: url("../img/icons/foco.png");
+  background-repeat: no-repeat;
+  background-size: 40px auto;
+}
+.personilla {
+  background-image: url("../img/icons/personilla.png");
+  background-repeat: no-repeat;
+  background-size: 40px auto;
+}
+.engrane {
+  background-image: url("../img/icons/engranes.png");
+  background-repeat: no-repeat;
+  background-size: 40px auto;
+}
+
