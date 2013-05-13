@@ -14,7 +14,12 @@
   transform: rotateY(180deg);
 }
 
-
 .videoIW {
-  margin-left: 39px;
+  width: 100%;
+}
+
+#modalVideoIW {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
 }
