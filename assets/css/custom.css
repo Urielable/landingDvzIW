@@ -23,3 +23,18 @@
   border: none;
   background-color: transparent;
 }
+
+.programa {
+  margin-left: auto;
+  margin-top: -154px;
+}
+
+.titulo-Actividad-Prg {
+  font-weight: bold;
+}
+
+.titulo-dia-prg {
+  font-weight: bold;
+  font-size: 20px;
+  color: #999999;
+}
